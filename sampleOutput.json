@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Watch: Meta's new Llama 3 models give open-source AI a boost",
+            "description": "Meta's new AI models are here, as part of a series of announcements from the company as it integrates AI further with Facebook and Instagram.",
+            "url": "https://techcrunch.com/2024/04/19/techcrunch-minute-metas-new-llama-3-models-give-open-source-ai-a-boost/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Meta-Llama-AI-YT.png?resize=1200,675",
+            "publishedAt": "2024-04-19T15:35:51Z",
+            "content": "New AI models from Meta are making waves in technology circles. The two new models, part of the Facebook parent company’s Llama line of artificial intelligence tools, are both open-source, helping th… [+1432 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "Langdock raises $3M with General Catalyst to help companies avoid vendor lock-in with LLMs | TechCrunch",
+            "description": "Plenty of large corporations want to join the AI revolution, but many feel it’s too early to be locked into one foundational model. That means there's a",
+            "url": "https://techcrunch.com/2024/04/19/langdock/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Langdoc-founders.jpg?w=600",
+            "publishedAt": "2024-04-19T12:07:53Z",
+            "content": "Plenty of large corporations want to join the AI revolution, but many feel its too early to be locked into one foundational model. That means there’s a market for a layer between companies and Large … [+2417 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Meta AI is restricting election-related responses in India | TechCrunch",
+            "description": ".With the Indian general elections set to begin this week, Meta is already blocking specific election-related queries in its chatbot.",
+            "url": "https://techcrunch.com/2024/04/19/meta-ai-is-restricting-election-related-responses-in-india/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Screenshot-2024-04-19-at-1.32.04-PM.jpg?w=785",
+            "publishedAt": "2024-04-19T11:59:27Z",
+            "content": "Last week, Meta started testing its AI chatbot in India across WhatsApp, Instagram, and Messenger. But with the Indian general elections beginning today, the company is already blocking specific quer… [+3367 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Apple pulls WhatsApp, Threads from China App Store following state order | TechCrunch",
+            "description": "Apple has removed the Meta-owned end-to-end encrypted messaging app WhatsApp from its App Store in China following a government order citing national Meta-owned WhatsApp and Threads have been pulled from Apple's App Store in China following a government order…",
+            "url": "https://techcrunch.com/2024/04/19/threads-whatsapp-removed-from-china-app-store/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/apple-app-store-ios-2021.jpg?w=1180",
+            "publishedAt": "2024-04-19T11:53:55Z",
+            "content": "Apple has removed the Meta-owned end-to-end encrypted messaging app WhatsApp from its App Store in China following a government order citing national security concerns, the news agency Reuters report… [+4030 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'Kane",
+            "title": "Tesla recalls the Cybertruck for faulty accelerator pedals that can get stuck | TechCrunch",
+            "description": "It's technically the Cybertruck's second recall, but it is the most serious to date, and it caps a tumultuous week for Tesla.",
+            "url": "https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/tesla-cybertruck-1.jpg?resize=1200,774",
+            "publishedAt": "2024-04-19T10:31:00Z",
+            "content": "Tesla has issued a recall for the Cybertruck due to a problem where the accelerator pedal can get stuck, putting drivers at risk of a crash, according to the National Highway Traffic Safety Administr… [+1877 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Fintech CRED secures in-principle approval for payment aggregator license | TechCrunch",
+            "description": "CRED has received the in-principle approval for payment aggregator license in a boost to the Indian fintech startup that could help it better serve its CRED has received the in-principle approval for its payment aggregator license in a boost to the Indian fin…",
+            "url": "https://techcrunch.com/2024/04/19/fintech-cred-secures-in-principle-approval-for-payment-aggregator-license/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/cred-app.jpg?resize=1200,554",
+            "publishedAt": "2024-04-19T08:48:05Z",
+            "content": "CRED has received the in-principle approval for payment aggregator license in a boost to the Indian fintech startup that could help it better serve its customers and launch new products and experimen… [+1274 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm, Mary Ann Azevedo, Kirsten Korosec and Theresa Loconsolo",
+            "title": "Tesla's newsy week, and is fintech having a moment? | TechCrunch",
+            "description": "From layoffs to pricing changes and more, Tesla news was inescapable for Equity this week. We also dug into Ramp's latest round, Rippling's own impending fundraise and more.",
+            "url": "https://techcrunch.com/2024/04/19/teslas-newsy-week-and-is-fintech-having-a-moment/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1494766819.jpg?resize=1200,675",
+            "publishedAt": "2024-04-19T01:00:39Z",
+            "content": "It’s been more than a minute since Tesla went public, but the EV company was inescapable on TechCrunch this week. From layoffs to pricing changes and more, it was a week dyed deeply in Tesla colors s… [+1200 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Internet users are getting younger; now the UK is weighing up if AI can help protect them | TechCrunch",
+            "description": "Artificial intelligence has been in the crosshairs of governments concerned about how it might be misused for fraud, disinformation and other malicious",
+            "url": "https://techcrunch.com/2024/04/18/internet-users-are-getting-younger-now-the-uk-is-weighing-up-if-ai-can-help-protect-them/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-499479381.jpg?resize=1200,800",
+            "publishedAt": "2024-04-19T00:04:23Z",
+            "content": "Artificial intelligence has been in the crosshairs of governments concerned about how it might be misused for fraud, disinformation and other malicious online activity; now in the U.K. a regulator is… [+4660 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Julie Bort",
+            "title": "Exclusive: A16z promotes Jennifer Li to help lead the new $1.25B Infrastructure fund",
+            "description": "Silicon Valley powerhouse venture capital firm Andreessen Horowitz just promoted Jennifer Li to general partner to help lead infrastructure investments.",
+            "url": "https://techcrunch.com/2024/04/19/andreessen-horowitz-jennifer-li-125-billion-dollar-infrastructure-fund/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Jennifer-Li.jpg?w=1000",
+            "publishedAt": "2024-04-18T19:42:58Z",
+            "content": "Powerhouse venture capital firm Andreessen Horowitz is promoting Jennifer Li to general partner after six years at the firm. She’s being tapped to help invest the new $1.25 billion Infrastructure fun… [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Webflow acquires Intellimize to add AI-powered webpage personalization | TechCrunch",
+            "description": "Web design and hosting platform Webflow is making its first acquisition: Intellimize. Intellimize taps AI to optimize and customize webpages.",
+            "url": "https://techcrunch.com/2024/04/19/webflow-intellimize-acquisition-web-development-ai/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1173671080.jpg?resize=1200,1148",
+            "publishedAt": "2024-04-17T16:09:47Z",
+            "content": "Webflow, a web design and hosting platform that’s raised over $330 million at a $4 billion valuation, is expanding into a new sector: marketing optimization.\r\nToday, Webflow announced that it acquire… [+4893 chars]"
+        }
+    ]
+}
