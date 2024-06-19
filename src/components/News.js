@@ -26,7 +26,7 @@ export class News extends Component {
       }
 
     async componentDidMount(){ 
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=dbe57b028aeb41e285a226a94865f7a7&page=1&pageSize=${this.props.pageSize}`;      
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=feeb83a3c21447d388c43b8190be6a1b&page=1&pageSize=${this.props.pageSize}`;      
           let data = await fetch(url);
         let parsedData = await data.json()
         console.log(parsedData); 
@@ -35,7 +35,7 @@ export class News extends Component {
 
      handlePrevClick = async ()=>{
         console.log("Previous");
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=dbe57b028aeb41e285a226a94865f7a7&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;        let data = await fetch(url);
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=feeb83a3c21447d388c43b8190be6a1b&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;        let data = await fetch(url);
         let parsedData = await data.json()
         console.log(parsedData);  
         this.setState({
@@ -48,7 +48,7 @@ export class News extends Component {
     handleNextClick = async ()=>{
         console.log("Next"); 
         if (!(this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize))){
-            let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=dbe57b028aeb41e285a226a94865f7a7&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+            let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=feeb83a3c21447d388c43b8190be6a1b&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
             this.setState({loading: true});
             let data = await fetch(url);
             let parsedData = await data.json() 
